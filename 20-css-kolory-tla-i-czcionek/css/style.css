@@ -1,0 +1,43 @@
+section {
+    background-color: silver;
+}
+
+h1  {
+    background-color: rgb(129, 134, 139);
+}
+
+h2 {
+    background-color: teal;
+}
+
+.lorem {
+    background-color: turquoise;
+}
+
+.ipsum {
+    background-color: whitesmoke;
+}
+
+.list {
+    background-color: slategray;
+}
+
+#item_one {
+    color: pink;
+}
+
+#item_two {
+    color: thistle;
+}
+
+#item_three {
+    color: tomato;
+}
+
+#item_four {
+    color: violet;
+}
+
+#item_five {
+    color: yellow;
+}
