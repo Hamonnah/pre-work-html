@@ -1,0 +1,17 @@
+body {
+    background-color:#808080 ;
+}
+
+h1 {
+    color:white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color: #fea500;
+  }
