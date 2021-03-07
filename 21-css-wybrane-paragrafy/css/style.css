@@ -1,0 +1,11 @@
+.lorem {
+    background-color: red;
+}
+
+#one, #two, #three {
+    background-color: royalblue;
+}
+
+#seven, #nine {
+    opacity: 0.5;
+}
