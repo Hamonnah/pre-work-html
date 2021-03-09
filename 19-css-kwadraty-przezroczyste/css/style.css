@@ -2,34 +2,25 @@ body {
     background-color:#f5f5dd;
 }
 
-.square_one {
+.square {
     height: 200px;
     width: 200px;
     margin-top: 10px;
     margin-left: 20px;
+}
+
+#one {
     background-color:rgba(0, 0, 0, 1);
 }
 
-.square_two {
-    height: 200px;
-    width: 200px;
-    margin-top: 10px;
-    margin-left: 20px;
+#two {
     background-color:rgba(0, 0, 0, 0.75);
 }
 
-.square_three {
-    height: 200px;
-    width: 200px;
-    margin-top: 10px;
-    margin-left: 20px;
+#three {
     background-color:rgba(0, 0, 0, 0.5);
 }
 
-.square_four {
-    height: 200px;
-    width: 200px;
-    margin-top: 10px;
-    margin-left: 20px;
+#four {
     background-color:rgba(0, 0, 0, 0.25);
 }
